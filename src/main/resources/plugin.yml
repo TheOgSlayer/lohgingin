@@ -1,0 +1,6 @@
+name: JalebiLogin
+version: '${project.version}'
+main: com.jalebi.login.JalebiLogin
+api-version: '1.21'
+description: Login/Register menu for JALEBI SMP
+author: JalebiSMP

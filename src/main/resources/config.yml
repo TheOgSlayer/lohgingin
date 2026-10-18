@@ -1,0 +1,12 @@
+# Maximum wrong password attempts before the player is kicked
+max-attempts: 3
+
+# Seconds a player has to log in/register before being kicked
+timeout-seconds: 60
+
+# Minimum password length when registering
+min-password-length: 4
+
+# How many "Confirm password" fields the register screen shows
+# (2 = Password + Confirm + Confirm again)
+register-confirmations: 2
